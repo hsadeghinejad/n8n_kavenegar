@@ -4,7 +4,7 @@ export class KavenegarSMS implements INodeType {
   description: INodeTypeDescription = {
     displayName: 'Kavenegar SMS',
     name: 'kavenegarSMS',
-    icon: 'file:kavenegar.png',
+    icon: 'file:kavenegar.svg',
     group: ['output'],
     version: 1,
     description: 'Send an SMS through Kavenegar API',
